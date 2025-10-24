@@ -115,9 +115,7 @@ while True:
         print("⚠ Invalid choice. Try again.")
 
 
-
-
-
+#💸 Python Expense Tracker guidence
 
 🖥️ How to Run
 Make sure Python 3 is installed.
@@ -125,14 +123,10 @@ Make sure Python 3 is installed.
 
 Clone this repository or download as ZIP:
 
-bash
-Copy code
 git clone https://github.com/SushantGiri34/Expense-tracker.git
 cd expense-tracker
 Run the script:
 
-bash
-Copy code
 python expense_tracker.py
 Use the menu to add, view, and calculate expenses 💰
 
@@ -141,10 +135,12 @@ Use the menu to add, view, and calculate expenses 💰
 ✨ Filter expenses by category or date
 ✨ Add colored terminal output for better UX
 
-🧑‍💻 Author
-Sushant Giri
+
+🧑‍💻 Author - Sushant Giri
 🌐 https://github.com/SushantGiri34
 
 🪪 License
 This project is open-source under the MIT License.
 You can freely use, modify, and share the code.
+
+⭐ If you like this project, don’t forget to star the repository!
